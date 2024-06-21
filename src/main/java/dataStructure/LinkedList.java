@@ -1,5 +1,6 @@
 package dataStructure;
 
+//Arvore
 public class LinkedList {
 
     private Node head;
@@ -177,11 +178,6 @@ public class LinkedList {
         return temp;
 
     }
-
-
-
-
-
 
     public static void main(String[] args) {
         LinkedList list = new LinkedList("elemento 1");
